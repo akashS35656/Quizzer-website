@@ -1,0 +1,45 @@
+.firstimage {
+    width: 20px;
+}
+
+.secondimage {
+    width: 120px;
+    float: right;
+    margin-right: 35px;
+
+
+}
+
+.f {
+
+    height: 160px;
+    margin-top: 10px;
+    padding-top: 50px;
+    padding-left: 10px;
+    background-color: cyan;
+
+}
+
+.paragraph {
+
+    height: 50px;
+    width: 65%;
+}
+
+.allimage {
+    display: inline-block;
+    margin-inline: 1px;
+}
+
+.border {
+
+    margin: 67px;
+}
+
+.spans {
+    margin-inline: 40px;
+}
+
+.quizcont {
+    margin-left: 30px;
+}

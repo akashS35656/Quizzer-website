@@ -1,0 +1,53 @@
+.q {
+
+    margin-left: 20%;
+    width: 55%;
+    color: white;
+}
+
+.qq {
+    border: 2px solid white;
+    border-radius: 8px;
+    width: 40%;
+    height: 5%;
+    color: white;
+
+    font-size: 11px;
+}
+
+.qu {
+    display: inline-block;
+    width: 40%;
+
+
+
+
+
+
+}
+
+.all {
+
+    margin-left: 20%;
+
+
+
+
+
+}
+
+.ho:hover {
+    background-color: greenyellow;
+    cursor: pointer;
+}
+
+.quu {
+    display: inline-block;
+    width: 40%;
+
+
+}
+input[ type=submit ]{
+    margin-left: 40%;
+    margin-top: 5%;
+}
